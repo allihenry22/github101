@@ -41,5 +41,10 @@ git config user.name "<YOUR EMAIL>"
 ### Our work
 All of our work will be visible via the following link:
 
-https://antonioschaffert.github.io/github101/
+https://hi.hackerhang.com
+
+### References
+
+<https://lab.github.com/githubtraining/>
+<https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc>
 
