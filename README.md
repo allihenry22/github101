@@ -1,7 +1,7 @@
 # Github & Git 101
 
 ## What will I learn during this session?
-This session provides basic knowlege of Git and Github. After 90 minutes, you will contribute to a codebase and build your own website. You will also approve changes from other developers in the class.  :sparkles:
+This session provides basic knowlege of Git and Github. After 90 minutes, you will contribute to a codebase and help build our very own website. You will also learn how to approve code changes from other developers.  :sparkles:
 
 ### Git
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows
