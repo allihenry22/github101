@@ -21,7 +21,7 @@ All major software companies use Git to build software. Google, Facebook, Amazon
 Run the following command from your terminal window. This will clone this project on your local computer.
 
 ```
-git clone https://github.com/antonioschaffert/github101.git
+git clone https://github.com/hacker-hang/github101.git
 ```
 
 ```
