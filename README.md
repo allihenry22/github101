@@ -35,7 +35,7 @@ git config user.email "<EMAIL YOU SIGNED UP ON GITHUB>"
 ```
 
 ```
-git config user.name "<YOUR EMAIL>"
+git config user.name "<YOUR NAME>"
 ```
 
 ### Our work
