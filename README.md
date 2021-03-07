@@ -35,10 +35,18 @@ cd github101
 From the terminal:
 ```
 git config user.email "<EMAIL YOU SIGNED UP ON GITHUB>"
+git config user.name "<YOUR NAME>"
 ```
 
+Some basic git commands
 ```
-git config user.name "<YOUR NAME>"
+git status (Check the status of your work)
+git branch (What branch are you on?)
+git checkout -b <branch name> (Create a new branch)
+git add <file name> (State a file to be commited)
+git commit -m <describe your change> (Commit your changes and give it a description)
+git push (Push your code to your online repository (Github))
+git pull (Pull the latest code from the online corresponding branch)
 ```
 
 ### Our work
