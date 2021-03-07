@@ -48,6 +48,8 @@ https://hi.hackerhang.com
 
 ### References
 
+<https://education.github.com/git-cheat-sheet-education.pdf>
+
 <https://lab.github.com/githubtraining/>
 
 <https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc>
