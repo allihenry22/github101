@@ -38,7 +38,7 @@ git config user.email "<EMAIL YOU SIGNED UP ON GITHUB>"
 git config user.name "<YOUR NAME>"
 ```
 
-Some basic git commands
+#### First time only:
 ```
 git status (Check the status of your work)
 git branch (What branch are you on?)
